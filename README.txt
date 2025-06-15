@@ -1,30 +1,24 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 💼 Anshika Dhaundiyal — Portfolio
 
+Welcome to my personal developer portfolio website!  
+This portfolio showcases my journey, projects, skills, and achievements in Web Development, Community Management, and more.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+🌐 **Live Site:** [View Portfolio](https://anshikadhaundiyal.github.io/portfolio/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠️ Built With
+- HTML5, CSS3, JavaScript
+- [Editorial Template](https://html5up.net/editorial) by HTML5 UP (open source)
 
-(* = not included)
+## 📁 Features
+- Clean, responsive layout
+- Resume download
+- About me section
+- Project highlights
+- Contact section
 
-AJ
-aj@lkn.io | @ajlkn
+## 📄 License
+This project uses the [Creative Commons Attribution 3.0 License](https://html5up.net/license) from HTML5 UP for the template.
 
+---
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to explore, fork, or reach out!
